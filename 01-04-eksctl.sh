@@ -1,3 +1,5 @@
+# Source: https://gist.github.com/681a5f4455428379e00bc815450e12d8
+
 #############################################
 # eksctl                                    #
 # How to Create and Manage AWS EKS clusters #
